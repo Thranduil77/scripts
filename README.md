@@ -1,5 +1,5 @@
 # scripts
-All kind of scrips used for automating daily tasks.
+All kind of scripts used for automating daily tasks.
 
 ## Authors
 
