@@ -3,4 +3,4 @@ Windows .bat script used for batch changing of photo resolution in a folder and 
 
 ## Authors
 
-* **Ivan Žagar** - [scripts](https://github.com/Thranduil77/scripts/Fix_Image_Resolutions_Batch)
+* **Ivan Žagar** - [scripts](https://github.com/Thranduil77/scripts/tree/master/Fix_Image_Resolutions_Batch)
