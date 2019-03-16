@@ -7,6 +7,11 @@ All kind of scripts used for automating daily tasks.
 
 ## Content
 
+## Activate Windows Photo Viewer in Windows 10
+[Thranduil77/Activate_Windows_Photo_Viewer_Win10](https://github.com/Thranduil77/scripts/tree/master/Activate_Windows_Photo_Viewer_Win10)
+
+Get Windows Photo Viewer back in Windows 10 with one simple click !
+
 ## Fix image resolution on multiple photos
 [Thranduil77/Fix_Image_Resolutions_Batch](https://github.com/Thranduil77/scripts/tree/master/Fix_Image_Resolutions_Batch)
 
