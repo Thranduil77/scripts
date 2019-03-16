@@ -16,6 +16,12 @@ It is used to add or change values in the Registry used for displaying Windows P
 
 If you want to deactivate this feature you just have to run "Deactivate_Windows_Photo_Viewer_on_Windows_10.reg".
 
+If you want to make Windows Photo Viewer default viewer for your images follow steps provided in further images:
+
+![Open with menu 1](../images/open_with_menu.png)
+![Open with menu 2](../images/open_with_menu_2.png)
+
+
 ## Authors
 
 * **Walter Glenn**
