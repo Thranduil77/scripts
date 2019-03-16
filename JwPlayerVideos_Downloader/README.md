@@ -8,4 +8,7 @@ To run this script:
 
 ## Authors
 
-* **Ivan Žagar** - [scripts](https://github.com/Thranduil77/scripts/tree/master/JwPlayerVideos_Downloader)
+* **Ivan Žagar**
+
+## Go back
+[Thranduil77/scripts](https://github.com/Thranduil77/scripts)
