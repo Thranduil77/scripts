@@ -1,4 +1,4 @@
-# Start_Google_DriveAndSync.bat
+# Start_Windows_Hotspot.bat
 Windows .bat script used for starting "Windows hotspot".
 
 ## Author
