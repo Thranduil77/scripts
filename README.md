@@ -1,4 +1,4 @@
-# scripts
+# Scripts
 All kind of scripts used for automating daily tasks.
 
 ## Author
