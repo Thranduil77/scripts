@@ -24,13 +24,13 @@ Windows .bat script used for batch changing of photo resolution in a folder and 
 Unix .sh script used for downloading video that are played using Jw media Player.
 
 
-## Starting programs using .bat script (GoogleDrive)
+## Start programs using .bat script (e.g. GoogleDrive)
 [Thranduil77/Start_Google_DriveAndSync.bat](https://github.com/Thranduil77/scripts/tree/master/Start_Google_DriveAndSync)
 
 Windows .bat script used for starting "Backup and sync from google".
 
 
-## Starting programs using .bat script
+## Start and configure WindowsHotspot using .bat script
 [Thranduil77/Start_Windows_Hotspot.bat](https://github.com/Thranduil77/scripts/tree/master/Start_Windows_Hotspot)
 
 Windows .bat script used for starting "Windows Hotspot" using CMD. Script sets SSID and password of Hotspot network and
